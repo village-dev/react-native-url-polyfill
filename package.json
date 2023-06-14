@@ -29,7 +29,7 @@
   "author": "Nicolas Charpentier <nicolas.charpentier079@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "whatwg-url-without-unicode": "8.0.0-3"
+    "whatwg-url-without-unicode": "git+https://github.com/charpeni/whatwg-url.git#ba30155d81da495c486f63d32195bf32f39ce3c7"
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "3.0.1",
